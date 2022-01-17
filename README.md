@@ -1,3 +1,4 @@
-# WAchatAnalySARE
+# whatsapp-chat-analysis
+A streamlit app to analyze your whatsapp chats
 
-https://wachatanalysare.herokuapp.com/
+Demo Link: https://wca-campusx.herokuapp.com/
